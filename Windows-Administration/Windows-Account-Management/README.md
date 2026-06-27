@@ -195,28 +195,71 @@ Using standard accounts for everyday activities follows the **Principle of Least
 
 # Screenshots
 
-Add screenshots for:
+## Part 1 – Creating a New Local User Account
 
-```text
-screenshots/ 
-└── new-local-user/ 
-    ├── User_Step_1.png s
-    ├── User_Step_2.png 
-    ├── User_Step_3.png 
-    ├── User_Step_4.png 
-    ├── User_Step_5.png 
-    ├── User_Step_6.png 
-    └── User_Step_7.png
-└── review-user-account-properties/ 
-    ├── User_Props_1.png 
-    └── User_Props_2.png
-└── modify-user-account/ 
-    ├── Modify_User_Step_1.png 
-    ├── Modify_User_Step_2.png 
-    ├── Modify_User_Step_3.png 
-    ├── Modify_User_Step_4.png 
-    └── Modify_User_Step_5.png
-```
+### Step 1 – Opening the User Accounts Tool
+
+![Opening User Accounts](./screenshots/new-local-user/User_Step1.png)
+
+### Step 2 – Creating a New Local User
+
+![Creating User](./screenshots/new-local-user/User_Step2.png)
+
+### Step 3 – Creating the Local Account
+
+![Local Account](./screenshots/new-local-user/User_Step3.png)
+
+### Step 4 – Logging into User1
+
+![Logging into User1](./screenshots/new-local-user/User_Step4.png)
+
+### Step 5 – Verifying User Folder Permissions
+
+![User Folder Permissions](./screenshots/new-local-user/User_Step5.png)
+
+### Step 6 – Attempting to Access Another User Profile
+
+![Access Denied](./screenshots/new-local-user/User_Step6.png)
+
+### Step 7 – Reviewing Administrator Folder Permissions
+
+![Administrator Folder](./screenshots/new-local-user/User_Step7.png)
+
+---
+
+## Part 2 – Reviewing User Account Properties
+
+### User1 Group Membership
+
+![User Properties 1](./screenshots/review-user-account-properties/User_Props_1.png)
+
+### Administrator Group Membership
+
+![User Properties 2](./screenshots/review-user-account-properties/User_Props_2.png)
+
+---
+
+## Part 3 – Modifying User Accounts
+
+### Step 1 – Changing the Account Type
+
+![Modify Step 1](./screenshots/Modify-Users-Account/Modify_User_Step1.png)
+
+### Step 2 – Granting Administrator Privileges
+
+![Modify Step 2](./screenshots/Modify-Users-Account/Modify_User_Step2.png)
+
+### Step 3 – Verifying Updated Group Membership
+
+![Modify Step 3](./screenshots/Modify-Users-Account/Modify_User_Step3.png)
+
+### Step 4 – Removing Administrator Privileges
+
+![Modify Step 4](./screenshots/Modify-Users-Account/Modify_User_Step4.png)
+
+### Step 5 – Deleting the User Account
+
+![Modify Step 5](./screenshots/Modify-Users-Account/Modify_User_Step5.png)
 
 ---
 
