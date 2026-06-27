@@ -226,26 +226,6 @@ This demonstrates how applications store configuration data within the Windows R
 
 ---
 
-# Folder Structure
-
-```text
-Windows-Internals-Lab/
-│
-├── README.md
-├── screenshots/
-│   ├── process-explorer.png
-│   ├── edge-process.png
-│   ├── ping-process.png
-│   ├── threads.png
-│   ├── handles.png
-│   ├── registry-editor.png
-│   └── eulaaccepted.png
-└── notes/
-    └── observations.md
-```
-
----
-
 # Key Takeaways
 
 * Learned how Windows creates and manages processes.
