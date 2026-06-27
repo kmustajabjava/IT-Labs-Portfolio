@@ -197,31 +197,31 @@ Using standard accounts for everyday activities follows the **Principle of Least
 
 ## Part 1 – Creating a New Local User Account
 
-### Step 1 – Opening the User Accounts Tool
+### Step 1 
 
 ![Opening User Accounts](./screenshots/new-local-user/User_Step1.png)
 
-### Step 2 – Creating a New Local User
+### Step 2 
 
 ![Creating User](./screenshots/new-local-user/User_Step2.png)
 
-### Step 3 – Creating the Local Account
+### Step 3 
 
 ![Local Account](./screenshots/new-local-user/User_Step3.png)
 
-### Step 4 – Logging into User1
+### Step 4 – 
 
 ![Logging into User1](./screenshots/new-local-user/User_Step4.png)
 
-### Step 5 – Verifying User Folder Permissions
+### Step 5 – 
 
 ![User Folder Permissions](./screenshots/new-local-user/User_Step5.png)
 
-### Step 6 – Attempting to Access Another User Profile
+### Step 6 – 
 
 ![Access Denied](./screenshots/new-local-user/User_Step6.png)
 
-### Step 7 – Reviewing Administrator Folder Permissions
+### Step 7 – 
 
 ![Administrator Folder](./screenshots/new-local-user/User_Step7.png)
 
@@ -229,35 +229,33 @@ Using standard accounts for everyday activities follows the **Principle of Least
 
 ## Part 2 – Reviewing User Account Properties
 
-### User1 Group Membership
+### Step 1
 
 ![User Properties 1](./screenshots/review-user-account-properties/User_Props_1.png)
 
-### Administrator Group Membership
-
+### Step 2
 ![User Properties 2](./screenshots/review-user-account-properties/User_Props_2.png)
 
 ---
 
 ## Part 3 – Modifying User Accounts
 
-### Step 1 – Changing the Account Type
-
+### Step 1 
 ![Modify Step 1](./screenshots/Modify-Users-Account/Modify_User_Step1.png)
 
-### Step 2 – Granting Administrator Privileges
+### Step 2 
 
 ![Modify Step 2](./screenshots/Modify-Users-Account/Modify_User_Step2.png)
 
-### Step 3 – Verifying Updated Group Membership
+### Step 3 
 
 ![Modify Step 3](./screenshots/Modify-Users-Account/Modify_User_Step3.png)
 
-### Step 4 – Removing Administrator Privileges
+### Step 4 
 
 ![Modify Step 4](./screenshots/Modify-Users-Account/Modify_User_Step4.png)
 
-### Step 5 – Deleting the User Account
+### Step 5 
 
 ![Modify Step 5](./screenshots/Modify-Users-Account/Modify_User_Step5.png)
 
