@@ -436,16 +436,6 @@ The `.pkt` file contains the completed Cisco Packet Tracer topology and configur
 
 ---
 
-## Security Note
-
-The usernames used in this lab are part of the Cisco Packet Tracer training scenario.
-
-Passwords and other authentication secrets are intentionally **not included in this README**.
-
-For a public GitHub repository, real credentials should never be committed to source files, screenshots, configuration files, or documentation.
-
----
-
 ## Conclusion
 
 This lab provided hands-on practice with **authentication and authorization across multiple network services**.
