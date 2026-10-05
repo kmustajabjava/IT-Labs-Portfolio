@@ -427,9 +427,9 @@ Configure-Access-Control/
 ├── README.md
 ├── Configure-Access-Control.pkt
 └── screenshots/
-    ├── email-configuration.png
-    ├── email-test.png
-    └── assessment-100-percent.png
+    ├── email_config.png
+    ├── test_email.png
+    └── checklist_1.png
 ```
 
 The `.pkt` file contains the completed Cisco Packet Tracer topology and configuration.
